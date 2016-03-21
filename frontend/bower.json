@@ -1,0 +1,14 @@
+{
+  "name": "dv-vending-portal",
+  "description": "Prototype for dv vending portal",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "angular-strap": "~2.0.0",
+    "bootstrap": "~3.3.4"
+  }
+}
